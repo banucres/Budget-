@@ -1,0 +1,12 @@
+﻿div.contai {
+   width: 100%;
+    height: 1109px;
+    background-color: #3E3D42;
+    
+    color: white;
+    text-align: center
+}
+div#tblbudget {
+    border: 1px;
+    border-color: white;
+}

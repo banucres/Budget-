@@ -1,0 +1,33 @@
+﻿div.contai {
+   width: 20%;
+    height: 100%;
+    background-color: #3E3D42;
+    margin: 20% 20% 10% 40%;
+    color: white;
+}
+.page-header {
+    text-align: center;
+    margin: 5%;
+    
+}
+#lblemailid,#lblpassword,#lblfirstname,#lbllastname,#lblrepassword {
+     margin: 10% 5% 5% 10%;
+     width: 50px;
+     height: 20px;
+    }
+
+#txtfirstname,#txtlastname,#txtemailid,#txtpassword,#txtrepassword {
+  margin-bottom: 5%;
+    margin-right: -10%;
+}
+
+
+ #btnregister {
+     margin-left: 35%;
+     margin-right: 1%;
+     margin-bottom: 5%;
+     margin-top: 5%;
+ }
+ body {
+     background-image: url(/Picture/518151-backgrounds_W3qVPu2.jpg);
+ }
