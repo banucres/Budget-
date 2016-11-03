@@ -1,0 +1,5 @@
+C:\Banu\Budget\Budget\Budget.Data\bin\Debug\Budget.Data.dll
+C:\Banu\Budget\Budget\Budget.Data\bin\Debug\Budget.Data.pdb
+C:\Banu\Budget\Budget\Budget.Data\obj\Debug\Budget.Data.csprojResolveAssemblyReference.cache
+C:\Banu\Budget\Budget\Budget.Data\obj\Debug\Budget.Data.dll
+C:\Banu\Budget\Budget\Budget.Data\obj\Debug\Budget.Data.pdb
